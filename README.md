@@ -61,23 +61,11 @@ API REST completa para gerenciamento de usuários, produtos, categorias e pedido
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jusguilherme&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jusguilherme&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br)
-
-</div>
-
----
-
 ## 🌐 Vamos nos conectar!
 
 Estou sempre aberto a colaborar em projetos desafiadores, oportunidades de estágio ou apenas trocar ideia sobre tecnologia.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/justinoguilhermee)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:justinoguilhermee@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jusguilherme)
 
