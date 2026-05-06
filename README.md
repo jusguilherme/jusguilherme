@@ -27,7 +27,7 @@ Desenvolvedor back-end focado em Java e Spring Boot, com experiência na constru
 
 ### 🔗 [Springboot Webservices API](https://github.com/jusguilherme/springboot-webservices)
 
-API REST completa para gerenciamento de usuários, produtos, categorias e pedidos.
+API REST para gerenciamento de usuários, produtos, categorias e pedidos, com foco em segurança, organização em camadas e boas práticas de desenvolvimento.
 
 - 🔐 Autenticação stateless com **Spring Security + JWT**
 - 🛡️ Senhas protegidas com **BCrypt** e validação com **Bean Validation**
@@ -42,11 +42,10 @@ API REST completa para gerenciamento de usuários, produtos, categorias e pedido
 
 ## 🎯 O que me move
 
-- 🚀 Autodidata com facilidade de aprendizado e sede por evolução técnica
-- 🏗️ Apaixonado por arquitetura back-end limpa e bem estruturada
-- 📊 Background em análise de dados que reforça minha orientação a resultados
-- 📚 Em constante evolução — cursos, projetos práticos e graduação em ADS
-- ☕ Codifico melhor com um café forte e uma boa playlist de lo-fi
+- 🚀 Evolução contínua em desenvolvimento back-end com Java e Spring Boot
+- 🏗️ Foco em arquitetura limpa, organização de código e boas práticas
+- 🔐 Interesse em segurança de aplicações e autenticação com JWT
+- 📚 Aprendizado constante por meio de projetos práticos e estudos
 
 ---
 
