@@ -1,4 +1,4 @@
-# 👋 Olá, mundo! Eu sou o Justino Guilherme
+# 👨🏻‍💻 Eu sou o Justino Guilherme
 
 ## Desenvolvedor Back-End Java | Spring Boot | API REST ☕
 
