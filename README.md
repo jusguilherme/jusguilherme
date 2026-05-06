@@ -4,6 +4,8 @@
 
 Desenvolvedor back-end focado em Java e Spring Boot, com experiência na construção de APIs REST seguras, bem estruturadas e escaláveis. Aplico boas práticas de desenvolvimento, arquitetura em camadas, autenticação e tratamento de exceções.
 
+🚀 Projeto em destaque: API REST com autenticação JWT, documentação Swagger e arquitetura em camadas.
+
 📍 Nanuque - MG, Brasil &nbsp;|&nbsp; 💼 Disponível para estágio &nbsp;|&nbsp;
 
 ---
