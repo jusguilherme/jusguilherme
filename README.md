@@ -2,8 +2,7 @@
 
 ## Desenvolvedor Back-End Java | Spring Boot | API REST ☕
 
-Construo APIs robustas com foco em segurança, boas práticas e código limpo.
-Combino raciocínio analítico — desenvolvido como gestor de tráfego digital — com uma paixão crescente por arquitetura back-end.
+Desenvolvedor back-end focado em Java e Spring Boot, com experiência na construção de APIs REST seguras, bem estruturadas e escaláveis. Aplico boas práticas de desenvolvimento, arquitetura em camadas, autenticação e tratamento de exceções.
 
 📍 Nanuque - MG, Brasil &nbsp;|&nbsp; 💼 Disponível para estágio &nbsp;|&nbsp;
 
